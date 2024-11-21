@@ -1,1 +1,1 @@
-# Brain-Mri-Synthesis-and-Tumor-detection-
+# Brain-Mri-Synthesis-and-Tumor-detection
