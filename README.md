@@ -15,7 +15,7 @@ This project combines advanced deep learning techniques to:
 
 By combining synthetic data generation and classification, the project achieves **state-of-the-art accuracy in brain tumor detection**.
 
-📄 [Project Notebook on Kaggle](https://www.kaggle.com/code/suhawni/dl-project)
+📄 [Project Notebook](https://drive.google.com/file/d/1WAZKNjoOstne5QJjnUqFW_KU6zN9ZFOt/view?usp=sharing)
 
 ---
 
